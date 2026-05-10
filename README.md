@@ -1,20 +1,27 @@
-#Library Management System
+Library Management System
 
-A simple and efficient Library Management System developed in C language. The project manages books, student records, book issuing, returns, and late fine calculation through a menu-driven console interface.
+A console-based Library Management System developed in C language that helps manage books and student records efficiently. The system allows users to add books, issue books, submit books, maintain records, and calculate fines for late submissions through a simple menu-driven interface.
 
 Features
-• Add and manage books
-• Issue books to students
-• Return/submit books
-• Automatic fine calculation
-• Display book and student records
+
+* Add new books to the library
+* Display available books
+* Issue books to students
+* Submit/return books
+* Automatic fine calculation for late returns
+* Maintain student issue records
 
 Technologies Used
-• C Programming
-• Structures & Arrays
-• Functions
-• String Handling
 
-Run the Project
+* C Programming
+* Structures
+* Arrays
+* Functions
+* String Handling
+
+How to Run
 clang library.c -o library
 ./library
+
+Purpose
+This project demonstrates the implementation of basic library operations using core C programming concepts and data management techniques.
