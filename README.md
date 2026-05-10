@@ -1,4 +1,4 @@
-Library Management System
+#Library Management System
 
 A simple and efficient Library Management System developed in C language. The project manages books, student records, book issuing, returns, and late fine calculation through a menu-driven console interface.
 
